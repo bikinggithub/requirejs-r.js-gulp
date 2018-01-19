@@ -1,0 +1,1 @@
+define(function(){return{showa:function(){return"a.js"},countnum:function(n,u){return n+u},callcountnum:function(n,u){return this.countnum(n,u)}}});

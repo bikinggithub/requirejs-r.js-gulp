@@ -1,0 +1,1 @@
+require.config({paths:{}}),require(["jquery","a","b"],function(c,e,n){alert(e.callcountnum(4,5)),n.clickbbtn()});
